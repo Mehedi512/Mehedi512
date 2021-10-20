@@ -9,12 +9,12 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
- 🌱 I’m currently learning Javasctipt/PHP/Wordpress 
- 👯 I’m looking to collaborate on GitHub 
- 🤔 I’m looking for help with HTHL/CSS/Js 
- 💬 Ask me about GitHub 
- 📫 How to reach me: I am developer 
- ⚡ Fun fact: Web development with friendly 
+ -🌱 I’m currently learning Javasctipt/PHP/Wordpress 
+ -👯 I’m looking to collaborate on GitHub 
+ -🤔 I’m looking for help with HTHL/CSS/Js 
+ -💬 Ask me about GitHub 
+ -📫 How to reach me: I am developer 
+ -⚡ Fun fact: Web development with friendly 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mehedi512)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/profile.php?id=100037191407671&_rdc=1&_rdr)  
