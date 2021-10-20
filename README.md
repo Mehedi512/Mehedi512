@@ -9,9 +9,9 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
- -🌱 I’m currently learning Javasctipt/PHP/Wordpress 
- -👯 I’m looking to collaborate on GitHub 
- -🤔 I’m looking for help with HTHL/CSS/Js 
+ .🌱 I’m currently learning Javasctipt/PHP/Wordpress 
+ .👯 I’m looking to collaborate on GitHub 
+ .🤔 I’m looking for help with HTHL/CSS/Js 
  -💬 Ask me about GitHub 
  -📫 How to reach me: I am developer 
  -⚡ Fun fact: Web development with friendly 
